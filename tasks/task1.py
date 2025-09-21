@@ -7,7 +7,7 @@ def solve():
     a=int(input("введите первое число: "))
     b=int(input("введите второе число: "))
     c=a+b
-    print("Сумма: ",c)
+    print("Сумма:",c)
 
 
 
